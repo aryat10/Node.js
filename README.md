@@ -50,11 +50,11 @@ Welcome to my Node.js learning journey! This repository is a collection of basic
 
 
 
-## Introduction
+## 👋🏼 Introduction
 
 Node.js is a powerful JavaScript runtime built on Chrome's V8 engine, enabling developers to build fast and scalable server-side applications. It is event-driven and non-blocking, making it ideal for data-intensive real-time applications.
 
-## Core Modules
+## 📦 Core Modules
 
 Node.js comes with a set of core modules that provide essential functionality without requiring any external dependencies. Some of the core modules I've explored include:
 
@@ -63,7 +63,7 @@ Node.js comes with a set of core modules that provide essential functionality wi
 - **path:** For handling and transforming file paths.
 - **os:** For getting information about the operating system.
 
-## Local Modules
+## 📂 Local Modules
 
 Local modules are custom modules that you create to organize your code. These modules are files or folders in your project that export specific functionalities, making your code more modular and easier to manage.
 
