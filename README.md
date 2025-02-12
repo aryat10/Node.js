@@ -1,6 +1,6 @@
 # Node.js 
 
-Welcome to my Node.js learning repository! This document provides an overview of the key concepts, modules, and tools I've explored while learning Node.js.
+Welcome to my Node.js learning journey! This repository is a collection of basic examples and exercises to help me understand the core concepts of Node.js, including modules, file handling, and basic operations.
 
 <p align="center">
   <br />
@@ -86,6 +86,14 @@ Example:
 function greet(name) {
     return `Hello, ${name}!`;
 } 
+
+--- 
+
+## 🚀 Features
+
+- **Modular Code**: Learn how to create and use modules in Node.js.
+- **Basic Arithmetic Operations**: Implement and use functions like addition.
+- **File Organization**: Understand how to structure Node.js projects.
 
 
 
