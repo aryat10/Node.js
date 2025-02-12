@@ -1,4 +1,4 @@
-# Node.js 
+# 📚 Node.js 
 
 Welcome to my Node.js learning journey! This repository is a collection of basic examples and exercises to help me understand the core concepts of Node.js, including modules, file handling, and basic operations.
 
