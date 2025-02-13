@@ -75,6 +75,29 @@ function greet(name) {
 } 
 
 ```
+---
+
+## 🌐 Express.js 
+
+Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It simplifies the process of building web servers and handling routes, making it one of the most popular frameworks in the Node.js ecosystem.
+
+### 🛠️ Creating a Server with Express 
+
+```
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
+});
+
+```
+
 --- 
 
 ## 🚀 Features
