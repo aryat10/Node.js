@@ -83,7 +83,7 @@ Express.js is a minimal and flexible Node.js web application framework that prov
 
 ### 🛠️ Creating a Server with Express 
 
-```
+```javascript
 const express = require('express');
 const app = express();
 const port = 3000;
