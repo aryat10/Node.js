@@ -105,7 +105,7 @@ app.listen(port, () => {
 - **Modular Code**: Learn how to create and use modules in Node.js.
 - **Basic Arithmetic Operations**: Implement and use functions like addition.
 - **File Organization**: Understand how to structure Node.js projects.
-- - **Express ineraction**: web application framework that provides a robust set of features.
+- **Express ineraction**: web application framework that provides a robust set of features.
 
 
 
