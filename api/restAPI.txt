@@ -18,7 +18,7 @@ PUT
 DELETE
 PATCH
 
-These methods are used to interact with the server.
+These methods are used to interact with the server : 
 
 GET : /user -> this means that the server will return a list of users.
 
@@ -29,6 +29,7 @@ PUT : /user/:id -> this means that the server will update the user with the give
 DELETE : /user/:id -> this means that the server will delete the user with the given id.
 
 PATCH : /user/:id -> this means that the server will update the user with the given id.
+
 
 
 
