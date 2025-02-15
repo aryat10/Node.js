@@ -109,6 +109,9 @@ app.listen(port, () => {
 ## 🔗 Rest API
 
 Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
+
+
+
 How does REST API work?
 
 REST API is a stateless, client-server, and cacheable communication protocol.
