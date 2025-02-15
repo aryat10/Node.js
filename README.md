@@ -73,23 +73,6 @@ Example:
 function greet(name) {
     return `Hello, ${name}!`;
 } 
-
-
-## 🔗 Rest API
-
-Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
-How does REST API work?
-
-REST API is a stateless, client-server, and cacheable communication protocol.
-REST API is a standard for building APIs.
-
-Various HTTP methods are used to interact with the server.
-
-- GET: To get a resource.
-- POST: To create a resource.
-- PUT: To update a resource.
-- DELETE: To delete a resource.
-
 ```
 ---
 
