@@ -1,6 +1,6 @@
-# Node.js 
+# 📚 Node.js 
 
-Welcome to my Node.js learning repository! This document provides an overview of the key concepts, modules, and tools I've explored while learning Node.js.
+Welcome to my Node.js learning journey! This repository is a collection of basic examples and exercises to help me understand the core concepts of Node.js, including modules, file handling, and basic operations.
 
 <p align="center">
   <br />
@@ -50,24 +50,11 @@ Welcome to my Node.js learning repository! This document provides an overview of
 
 
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Core Modules](#core-modules)
-3. [Local Modules](#local-modules)
-4. [Built-in Modules](#built-in-modules)
-5. [npm (Node Package Manager)](#npm-node-package-manager)
-6. [nodemon](#nodemon)
-7. [package.json](#packagejson)
-8. [Event Loop](#event-loop)
-9. [Events](#events)
-10. [Conclusion](#conclusion)
-
-## Introduction
+## 👋🏼 Introduction
 
 Node.js is a powerful JavaScript runtime built on Chrome's V8 engine, enabling developers to build fast and scalable server-side applications. It is event-driven and non-blocking, making it ideal for data-intensive real-time applications.
 
-## Core Modules
+## 📦 Core Modules
 
 Node.js comes with a set of core modules that provide essential functionality without requiring any external dependencies. Some of the core modules I've explored include:
 
@@ -76,7 +63,7 @@ Node.js comes with a set of core modules that provide essential functionality wi
 - **path:** For handling and transforming file paths.
 - **os:** For getting information about the operating system.
 
-## Local Modules
+## 📂 Local Modules
 
 Local modules are custom modules that you create to organize your code. These modules are files or folders in your project that export specific functionalities, making your code more modular and easier to manage.
 
@@ -87,6 +74,7 @@ function greet(name) {
     return `Hello, ${name}!`;
 } 
 
+<<<<<<< HEAD
 ## 🔗 Rest API
 
 Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
@@ -101,6 +89,56 @@ Various HTTP methods are used to interact with the server.
 - POST: To create a resource.
 - PUT: To update a resource.
 - DELETE: To delete a resource.
+=======
+```
+---
+
+## 🌐 Express.js 
+
+Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It simplifies the process of building web servers and handling routes, making it one of the most popular frameworks in the Node.js ecosystem.
+
+### 🛠️ Creating a Server with Express 
+
+```javascript
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
+});
+
+```
+
+--- 
+
+## 🚀 Features
+
+- **Modular Code** : Learn how to create and use modules in Node.js.
+- **Basic Arithmetic Operations** : Implement and use functions like addition.
+- **File Organization** : Understand how to structure Node.js projects.
+- **Express ineraction** : Web application framework that provides a robust set of features.
+
+## 🔗 Rest API
+
+Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
+How does REST API work?
+
+REST API is a stateless, client-server, and cacheable communication protocol.
+REST API is a standard for building APIs.
+
+Various HTTP methods are : 
+
+- GET: To get a resource.
+- POST: To create a resource.
+- PUT: To update a resource.
+- DELETE: To delete a resource.
+
+
 
 
 

@@ -1,0 +1,35 @@
+What is REST API ?
+
+REST API is a way to interact with a server using HTTP requests.
+REST API is a stateless, client-server, and cacheable communication protocol.
+REST API is a standard for building APIs.
+REST API is a standard for building APIs.
+
+
+How does REST API work?
+
+REST API is a stateless, client-server, and cacheable communication protocol.
+REST API is a standard for building APIs.
+
+Various HTTP methods : 
+GET
+POST
+PUT
+DELETE
+PATCH
+
+These methods are used to interact with the server : 
+
+GET : /user -> this means that the server will return a list of users.
+
+POST : /user -> this means that the server will create a new user.
+
+PUT : /user/:id -> this means that the server will update the user with the given id.
+
+DELETE : /user/:id -> this means that the server will delete the user with the given id.
+
+PATCH : /user/:id -> this means that the server will update the user with the given id.
+
+
+
+
