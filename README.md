@@ -74,7 +74,7 @@ function greet(name) {
     return `Hello, ${name}!`;
 } 
 
-<<<<<<< HEAD
+
 ## 🔗 Rest API
 
 Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
@@ -89,7 +89,7 @@ Various HTTP methods are used to interact with the server.
 - POST: To create a resource.
 - PUT: To update a resource.
 - DELETE: To delete a resource.
-=======
+
 ```
 ---
 
