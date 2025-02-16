@@ -105,6 +105,7 @@ app.listen(port, () => {
 - **Basic Arithmetic Operations** : Implement and use functions like addition.
 - **File Organization** : Understand how to structure Node.js projects.
 - **Express ineraction** : Web application framework that provides a robust set of features.
+- **Rest API** : Interact with a server using HTTP requests.
 
 ## 🔗 Rest API
 
