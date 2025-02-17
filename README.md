@@ -132,10 +132,41 @@ Postman is a tool for testing API , which is a collection of tools for building 
 More about Postman : https://www.postman.com/
 
 Advantages of using Postman:
+
 - It is a free tool.
 - It is a very popular tool for testing APIs.
 - It is a very easy to use tool.
 - It is a very powerful tool for testing APIs.
+
+## 🛰️ Middlewares
+
+Middlewares are functions that have the access to the request and response objects , and they can modify the request and response objects.
+
+Features of Middlewares:
+
+- They can modify the request and response objects.
+- They can end the request-response cycle.
+- They can call the next middleware in the stack.
+  
+```javascript
+const express = require('express');
+const app = express();
+
+app.use(express.json());
+
+app.use((req,res,next)=>{
+    console.log('Middleware working 🛰️');
+    next();
+})
+
+```
+
+
+
+
+
+
+
 
 
 
