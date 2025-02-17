@@ -96,7 +96,7 @@ app.listen(port, () => {
 });
 
 ```
-
+ 
 --- 
 
 ## 🚀 Features
@@ -106,11 +106,10 @@ app.listen(port, () => {
 - **File Organization** : Understand how to structure Node.js projects.
 - **Express ineraction** : Web application framework that provides a robust set of features.
 - **Rest API** : Interact with a server using HTTP requests.
-
+- **Postman** : Tool for testing API , which is a collection of tools for building APIs.
 ## 🔗 Rest API
 
 Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
-
 
 
 How does REST API work?
@@ -124,6 +123,25 @@ Various HTTP methods are :
 - POST: To create a resource.
 - PUT: To update a resource.
 - DELETE: To delete a resource.
+
+
+## POSTMAN
+
+Postman is a tool for testing API , which is a collection of tools for building APIs.
+More about Postman : https://www.postman.com/
+
+Advantages of using Postman:
+- It is a free tool.
+- It is a very popular tool for testing APIs.
+- It is a very easy to use tool.
+- It is a very powerful tool for testing APIs.
+
+
+
+
+
+
+
 
 
 

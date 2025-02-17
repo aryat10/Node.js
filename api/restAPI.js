@@ -21,6 +21,12 @@ app.get('/movies',(req,res)=>{
 })
 
 
+app.post('/api/movies',(req,res)=>{
+    return res.json({
+        message:"Work in progress ♻️🖥️"
+    })
+})
+
 
 app.listen(3000, () => {
     console.log('Server is running on port 3000 ');
