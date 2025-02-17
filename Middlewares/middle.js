@@ -11,7 +11,7 @@ app.get('/',(req,res)=>{
 
 app.use((req,res,next)=>{
     console.log('Middleware working 🛰️');
-    next();
+    next(); // next() is used to call the next middleware in the stack.
 })
 
 
