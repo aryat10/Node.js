@@ -107,6 +107,7 @@ app.listen(port, () => {
 - **Express ineraction** : Web application framework that provides a robust set of features.
 - **Rest API** : Interact with a server using HTTP requests.
 - **Postman** : Tool for testing API , which is a collection of tools for building APIs.
+
 ## 🔗 Rest API
 
 Rest API is a way to interact with a server using HTTP requests. It is a standard way to interact with a server using HTTP requests.
@@ -125,7 +126,7 @@ Various HTTP methods are :
 - DELETE: To delete a resource.
 
 
-## POSTMAN
+## 📮 Postman
 
 Postman is a tool for testing API , which is a collection of tools for building APIs.
 More about Postman : https://www.postman.com/
