@@ -4,7 +4,7 @@ const movies = require('./MOCK_DATA (1).json');
 
 app.get('/', (req, res) => {
     res.send('<h1>Learning Rest API 🔗</h1>');
-});
+})
 
 app.get('/api/movies', (req, res) => {
    return res.json(movies);
